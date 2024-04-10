@@ -1,0 +1,152 @@
+OUTPUT:
+
+
+Test2you COVID-19 Test Kits Distribution System
+
+Enter the number associated with your chosen menu option.
+1: Lists all the requests received on that day
+2: Lists the sequence of requests which are fulfilled on the day
+3: Lists the sequence of pushed requests on the day
+4: Lists the list of warehouses with the test kits in stock
+5: Lists the shortest path to all the availble warehouses
+6: Exit this application
+
+1
+Lists all the requests received on that day...
+
+Order Number : 5	Priority : Keyworker		Customer Name : Wendy                    	No. Of Kits : 2 packs              	Address : Harborne
+Order Number : 9	Priority : Keyworker		Customer Name : Grandpa Dog              	No. Of Kits : 1 packs              	Address : Digbeth
+Order Number : 11	Priority : Keyworker		Customer Name : Mr Fox                   	No. Of Kits : 1 packs              	Address : Lye
+Order Number : 20	Priority : Keyworker		Customer Name : Mademoiselle Potato      	No. Of Kits : 2 packs              	Address : Old Hill
+Order Number : 4	Priority : Symptomatic		Customer Name : Bob the Builder          	No. Of Kits : 2 packs              	Address : Lye
+Order Number : 7	Priority : Symptomatic		Customer Name : Grandpa Pig              	No. Of Kits : 2 packs              	Address : Warley
+Order Number : 8	Priority : Symptomatic		Customer Name : Madame Gazelle           	No. Of Kits : 2 packs              	Address : West Bromwich
+Order Number : 12	Priority : Symptomatic		Customer Name : Mrs Pony                 	No. Of Kits : 2 packs              	Address : Halesowen
+Order Number : 14	Priority : Symptomatic		Customer Name : Mr Bull                  	No. Of Kits : 2 packs              	Address : Woodside
+Order Number : 18	Priority : Symptomatic		Customer Name : Mrs Mouse                	No. Of Kits : 2 packs              	Address : Oldbury
+Order Number : 22	Priority : Symptomatic		Customer Name : Captain Daddy Dog        	No. Of Kits : 2 packs              	Address : Netherton
+Order Number : 24	Priority : Symptomatic		Customer Name : Mr Labrador              	No. Of Kits : 1 packs              	Address : Withymoor
+Order Number : 1	Priority : Standard		Customer Name : Mummy Pig                	No. Of Kits : 1 packs              	Address : Brierley Hill
+Order Number : 2	Priority : Standard		Customer Name : Miss Rabbit              	No. Of Kits : 2 packs              	Address : Dudley
+Order Number : 3	Priority : Standard		Customer Name : Mrs Rabbit               	No. Of Kits : 1 packs              	Address : Kates Hill
+Order Number : 6	Priority : Standard		Customer Name : Mrs Giraffe              	No. Of Kits : 2 packs              	Address : Quinton
+Order Number : 10	Priority : Standard		Customer Name : Dr Elephant              	No. Of Kits : 2 packs              	Address : Solihull
+Order Number : 13	Priority : Standard		Customer Name : Mrs Zebra                	No. Of Kits : 1 packs              	Address : Acocks Green
+Order Number : 15	Priority : Standard		Customer Name : Mr Cat                   	No. Of Kits : 2 packs              	Address : Lapal
+Order Number : 16	Priority : Standard		Customer Name : Mrs Sheep                	No. Of Kits : 2 packs              	Address : Brandhall
+Order Number : 17	Priority : Standard		Customer Name : Dr Mole                  	No. Of Kits : 2 packs              	Address : Brierley Hill
+Order Number : 19	Priority : Standard		Customer Name : Mamam Goat               	No. Of Kits : 2 packs              	Address : Darby End
+Order Number : 21	Priority : Standard		Customer Name : Mrs Bear                 	No. Of Kits : 2 packs              	Address : Langley Green
+Order Number : 23	Priority : Standard		Customer Name : Mrs Cow                  	No. Of Kits : 2 packs              	Address : Smethwick
+Order Number : 25	Priority : Standard		Customer Name : Mr Lion                  	No. Of Kits : 2 packs              	Address : Olton
+Order Number : 26	Priority : Standard		Customer Name : Mr Rhinoceros            	No. Of Kits : 2 packs              	Address : Rowley Regis
+
+
+ Test2you COVID-19 Test Kits Distribution System
+
+Enter the number associated with your chosen menu option.
+1: Lists all the requests received on that day
+2: Lists the sequence of requests which are fulfilled on the day
+3: Lists the sequence of pushed requests on the day
+4: Lists the list of warehouses with the test kits in stock
+5: Lists the shortest path to all the availble warehouses
+6: Exit this application
+
+2
+Lists the sequence of requests which are fulfilled on the day...
+
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 5	Priority : Keyworker		Customer Name : Wendy                     	Address : Harborne
+No. Of Kits Ordered : 1 packs		Fulfilled Order : 1 packs	Order Number : 9	Priority : Keyworker		Customer Name : Grandpa Dog               	Address : Digbeth
+No. Of Kits Ordered : 1 packs		Fulfilled Order : 1 packs	Order Number : 11	Priority : Keyworker		Customer Name : Mr Fox                    	Address : Lye
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 20	Priority : Keyworker		Customer Name : Mademoiselle Potato       	Address : Old Hill
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 4	Priority : Symptomatic		Customer Name : Bob the Builder           	Address : Lye
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 7	Priority : Symptomatic		Customer Name : Grandpa Pig               	Address : Warley
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 8	Priority : Symptomatic		Customer Name : Madame Gazelle            	Address : West Bromwich
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 12	Priority : Symptomatic		Customer Name : Mrs Pony                  	Address : Halesowen
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 14	Priority : Symptomatic		Customer Name : Mr Bull                   	Address : Woodside
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 18	Priority : Symptomatic		Customer Name : Mrs Mouse                 	Address : Oldbury
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 22	Priority : Symptomatic		Customer Name : Captain Daddy Dog         	Address : Netherton
+No. Of Kits Ordered : 1 packs		Fulfilled Order : 1 packs	Order Number : 24	Priority : Symptomatic		Customer Name : Mr Labrador               	Address : Withymoor
+No. Of Kits Ordered : 1 packs		Fulfilled Order : 1 packs	Order Number : 1	Priority : Standard		Customer Name : Mummy Pig                 	Address : Brierley Hill
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 2	Priority : Standard		Customer Name : Miss Rabbit               	Address : Dudley
+No. Of Kits Ordered : 1 packs		Fulfilled Order : 1 packs	Order Number : 3	Priority : Standard		Customer Name : Mrs Rabbit                	Address : Kates Hill
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 6	Priority : Standard		Customer Name : Mrs Giraffe               	Address : Quinton
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 10	Priority : Standard		Customer Name : Dr Elephant               	Address : Solihull
+No. Of Kits Ordered : 1 packs		Fulfilled Order : 1 packs	Order Number : 13	Priority : Standard		Customer Name : Mrs Zebra                 	Address : Acocks Green
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 15	Priority : Standard		Customer Name : Mr Cat                    	Address : Lapal
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 16	Priority : Standard		Customer Name : Mrs Sheep                 	Address : Brandhall
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 17	Priority : Standard		Customer Name : Dr Mole                   	Address : Brierley Hill
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 19	Priority : Standard		Customer Name : Mamam Goat                	Address : Darby End
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 21	Priority : Standard		Customer Name : Mrs Bear                  	Address : Langley Green
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 23	Priority : Standard		Customer Name : Mrs Cow                   	Address : Smethwick
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 25	Priority : Standard		Customer Name : Mr Lion                   	Address : Olton
+No. Of Kits Ordered : 2 packs		Fulfilled Order : 2 packs	Order Number : 26	Priority : Standard		Customer Name : Mr Rhinoceros             	Address : Rowley Regis
+
+
+ Test2you COVID-19 Test Kits Distribution System
+
+Enter the number associated with your chosen menu option.
+1: Lists all the requests received on that day
+2: Lists the sequence of requests which are fulfilled on the day
+3: Lists the sequence of pushed requests on the day
+4: Lists the list of warehouses with the test kits in stock
+5: Lists the shortest path to all the availble warehouses
+6: Exit this application
+
+3
+Lists the sequence of pushed requests on the day...
+
+No Record Found
+
+
+ Test2you COVID-19 Test Kits Distribution System
+
+Enter the number associated with your chosen menu option.
+1: Lists all the requests received on that day
+2: Lists the sequence of requests which are fulfilled on the day
+3: Lists the sequence of pushed requests on the day
+4: Lists the list of warehouses with the test kits in stock
+5: Lists the shortest path to all the availble warehouses
+6: Exit this application
+
+4
+Lists the list of warehouses with the test kits in stock....
+
+WarehouseName,Stock
+A,100
+C,50
+D,10
+E,50
+
+ Test2you COVID-19 Test Kits Distribution System
+
+Enter the number associated with your chosen menu option.
+1: Lists all the requests received on that day
+2: Lists the sequence of requests which are fulfilled on the day
+3: Lists the sequence of pushed requests on the day
+4: Lists the list of warehouses with the test kits in stock
+5: Lists the shortest path to all the availble warehouses
+6: Exit this application
+
+5
+Lists the shortest path to all the availble warehouses...
+The total distance needed to be covered is 60 miles
+Path -> [0, 1] cost -> 10
+Path -> [1, 3] cost -> 10
+Path -> [3, 4] cost -> 20
+Path -> [4, 5] cost -> 15
+Path -> [5, 0] cost -> 5
+
+
+ Test2you COVID-19 Test Kits Distribution System
+
+Enter the number associated with your chosen menu option.
+1: Lists all the requests received on that day
+2: Lists the sequence of requests which are fulfilled on the day
+3: Lists the sequence of pushed requests on the day
+4: Lists the list of warehouses with the test kits in stock
+5: Lists the shortest path to all the availble warehouses
+6: Exit this application
+
+6
+Goodbye!
