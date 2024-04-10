@@ -1,0 +1,7 @@
+FROM,DISTANCE to Test2You (Miles),DISTANCE to A (Miles),DISTANCE to B (Miles),DISTANCE to C (Miles),DISTANCE to D (Miles),DISTANCE to E (Miles)
+Test2You,0,10,22,31,30,5
+A,10,0,5,10,12,13
+B,22,5,0,6,7,8
+C,31,10,6,0,20,15
+D,30,12,7,20,0,15
+E,5,13,8,15,15,0

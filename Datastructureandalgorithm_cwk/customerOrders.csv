@@ -1,0 +1,27 @@
+Order of Input,Priority,Customer Name,Kits in Order,Location
+1,Standard,Mummy Pig,1,Brierley Hill
+2,Standard,Miss Rabbit,2,Dudley
+3,Standard,Mrs Rabbit,1,Kates Hill
+4,Symptomatic,Bob the Builder,2,Lye
+5,Keyworker,Wendy,2,Harborne
+6,Standard,Mrs Giraffe,2,Quinton
+7,Symptomatic,Grandpa Pig,2,Warley
+8,Symptomatic,Madame Gazelle,2,West Bromwich
+9,Keyworker,Grandpa Dog,1,Digbeth
+10,Standard,Dr Elephant,2,Solihull
+11,Keyworker,Mr Fox,1,Lye
+12,Symptomatic,Mrs Pony,2,Halesowen
+13,Standard,Mrs Zebra,1,Acocks Green
+14,Symptomatic,Mr Bull,2,Woodside
+15,Standard,Mr Cat,2,Lapal
+16,Standard,Mrs Sheep,2,Brandhall
+17,Standard,Dr Mole,2,Brierley Hill
+18,Symptomatic,Mrs Mouse,2,Oldbury
+19,Standard,Mamam Goat,2,Darby End
+20,Keyworker,Mademoiselle Potato,2,Old Hill
+21,Standard,Mrs Bear,2,Langley Green
+22,Symptomatic,Captain Daddy Dog,2,Netherton
+23,Standard,Mrs Cow,2,Smethwick
+24,Symptomatic,Mr Labrador,1,Withymoor
+25,Standard,Mr Lion,2,Olton
+26,Standard,Mr Rhinoceros,2,Rowley Regis
